@@ -1,21 +1,20 @@
-# Seu Nome
+# WELLINGTON OLIVEIRA
 
 ## Sobre Mim
 
-Breve descrição sobre você, suas habilidades e interesses.
+Olá! Meu nome é Jose Wellington e sou um(a) Analista de Suporte e DEV FULL STACK JR, apaixonado(a) por Tecnologias, Esporte, Musicas.
 
 ## Habilidades
 
-- Habilidade 1
-- Habilidade 2
-- Habilidade 3
+- ANALISTA DE SUPORTE - ATENDIMENTO HELP DESK, HADWARE, SOFTWARE, REDES e SERVIDORES.
+- DESENVOLVEDOR FULL STACK JR - HTML, CSS, JAVASCRIPT, PHP, REACT, PYTHON.
 
 ## Experiência Profissional
 
-### Nome da Empresa (Cargo)
-- Breve descrição das responsabilidades e realizações no cargo.
+### STARTTECH INFORMATICA  (TECNICO DE INFORMATICA N2)
+- Suporte de Campo em Lojas de Supermercardo da rede WALMART, Manutenção em Suprimentos de Informatica, Suporte em Redes.
 
-### Nome da Empresa (Cargo)
+### FORTAL EMPREENDIMENTOS (ANALISTA DE SUPORTE)
 - Breve descrição das responsabilidades e realizações no cargo.
 
 ## Projetos Destacados
