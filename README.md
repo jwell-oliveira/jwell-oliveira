@@ -1,5 +1,3 @@
-# WELLINGTON OLIVEIRA
-
 ## Sobre Mim
 
 Olá! Meu nome é Jose Wellington e sou um(a) Analista de Suporte e DEV FULL STACK JR, apaixonado(a) por Tecnologias, Esporte, Musicas.
